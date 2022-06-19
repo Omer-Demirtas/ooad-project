@@ -2,6 +2,8 @@
 
 # Nesneye Yönelimli Analiz Tasarım Proje Ödevi
 
+# Object Oriented Analysis Design Project
+
 ---
 
 ### Açıklama
